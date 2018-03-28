@@ -1,4 +1,5 @@
 # Python version of Plate_MZC
+# Reference Matlab code source: http://www.cimne.com/mat-fem/plates.asp 
 # 4 Nodes Quadrilateral Thin Plate Element MZC
 
 import time
