@@ -1,5 +1,5 @@
 # FEM-Plate-MZC-Python
-Melosh and Zienkiewicz and Cheung developed a popular 4-noded plate rectangle which is known as MZC plate element. [MAT-fem](http://www.cimne.com/mat-fem/plates.asp) developed a Matlab program for FEM analysis of thin plate with the MZC element.
+Melosh, Zienkiewicz and Cheung developed a popular 4-noded plate rectangle which is known as MZC plate element. [MAT-fem](http://www.cimne.com/mat-fem/plates.asp) developed a Matlab program for FEM analysis of thin plate with the MZC element.
 
 I just converted the Matlab code into Python language and added some features.
 
